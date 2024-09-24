@@ -1,0 +1,27 @@
+:root {
+  --max-width: 1440px;
+}
+
+/* Estilos para a barra de rolagem */
+.swiper-scrollbar {
+  height: 6px;
+  background: rgba(102, 99, 99, 0.466);
+}
+
+.swiper-scrollbar-drag {
+  background: rgba(78, 9, 240, 0.932);
+  border-radius: 10px;
+}
+
+/* Estilos para os botões de navegação */
+
+
+.swiper-button-prev-custom {
+  left: 10px;
+  position: absolute;
+}
+
+.swiper-button-next-custom {
+  right: 10px;
+  position: absolute;
+}
